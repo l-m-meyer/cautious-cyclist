@@ -1,0 +1,20 @@
+:root {
+  --display-font: "Monoton", cursive;
+  --header-font: "Comfortaa", cursive;
+  --body-font: "Roboto Flex", sans-serif;
+  --gray: #696d7d;
+  --green: #6f9283;
+  --artichoke: #8d9f87;
+  --sage: #cdc6a5;
+  --beige: #f0dcca;
+}
+
+h1 {
+  font-family: var(--display-font);
+  font-size: 3rem;
+  font-weight: normal;
+}
+
+html {
+  background-color: var(--sage);
+}
