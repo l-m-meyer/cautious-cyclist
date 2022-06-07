@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "88a1241bcbe45c8e9616fd34d0f68a55",
+      "css": "aboveground-rail",
+      "code": 59392,
+      "src": "maki"
+    }
+  ]
+}
