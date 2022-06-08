@@ -9,12 +9,6 @@
   --beige: #f0dcca;
 }
 
-h1 {
-  font-family: var(--display-font);
-  font-size: 3rem;
-  font-weight: normal;
-}
-
 html {
-  background-color: var(--sage);
+  background-color: var(--green);
 }
